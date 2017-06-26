@@ -34,5 +34,13 @@ D:\课件\信安大课设\SourceMonitor\FlowMonitor\obj\Debug\windows\FlowMonito
 D:\课件\信安大课设\SourceMonitor\FlowMonitor\obj\Debug\FlowMonitor.g.resources
 D:\课件\信安大课设\SourceMonitor\FlowMonitor\obj\Debug\onewater.flowmonitor.Properties.Resources.resources
 D:\课件\信安大课设\SourceMonitor\FlowMonitor\obj\Debug\SourceMonitor.csproj.GenerateResource.Cache
-D:\课件\信安大课设\SourceMonitor\FlowMonitor\obj\Debug\FlowMonitor.TrustInfo.xml
-D:\课件\信安大课设\SourceMonitor\FlowMonitor\obj\Debug\FlowMonitor.exe.manifest
+D:\课件\信安大课设\SourceMonitor\FlowMonitor\bin\Debug\FlowMonitor.exe
+D:\课件\信安大课设\SourceMonitor\FlowMonitor\bin\Debug\FlowMonitor.pdb
+D:\课件\信安大课设\SourceMonitor\FlowMonitor\bin\Debug\EntityFramework.dll
+D:\课件\信安大课设\SourceMonitor\FlowMonitor\bin\Debug\EntityFramework.SqlServer.dll
+D:\课件\信安大课设\SourceMonitor\FlowMonitor\bin\Debug\System.Data.SQLite.dll
+D:\课件\信安大课设\SourceMonitor\FlowMonitor\bin\Debug\System.Data.SQLite.EF6.dll
+D:\课件\信安大课设\SourceMonitor\FlowMonitor\bin\Debug\System.Data.SQLite.Linq.dll
+D:\课件\信安大课设\SourceMonitor\FlowMonitor\bin\Debug\EntityFramework.xml
+D:\课件\信安大课设\SourceMonitor\FlowMonitor\bin\Debug\EntityFramework.SqlServer.xml
+D:\课件\信安大课设\SourceMonitor\FlowMonitor\bin\Debug\System.Data.SQLite.xml
